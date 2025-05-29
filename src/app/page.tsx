@@ -1,5 +1,4 @@
 "use client";
-import styles from "./page.module.css";
 import { JSX, useState } from "react";
 import PurchaseModals from "@/components/PurchaseModals";
 import Hero from "@/components/Hero";
